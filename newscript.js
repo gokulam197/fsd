@@ -59,7 +59,7 @@ var result=mul(4,10);
 console.log('multiplication result='+result);
 
 var r=++result;
-console.log('increment='+r);
+console.log('increment this='+r);
 
 // conditional
 
