@@ -63,7 +63,7 @@ console.log('increment this='+r);
 
 // conditional
 
-var exp=-122;
+var exp=-1222;
 if (exp>0) {
     console.log('positive number');
 } else {
