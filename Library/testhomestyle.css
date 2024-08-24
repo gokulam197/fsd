@@ -1,0 +1,128 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; 
+    background-image: url("/images/homepage.jpg");
+    background-size: cover;
+    
+
+    border: solid 2px rgb(23, 11, 11);
+}
+#lib{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1067c5;
+}
+
+        .header { text-align: center; padding: 20px; background-color: #082545; color: white;
+         }
+        /*.container { padding: 20px;
+         }*/
+        .banner { text-align: center; margin-bottom: 20px; 
+        }
+        .banner img { width: 400px; max-width: 800px; 
+            height: 100px;
+            
+        }
+        .featured-books { display: flex; justify-content: space-around; flex-wrap: wrap;
+         }
+        .book-item { width: 200px; margin: 10px; 
+        }
+        .book-item img { width: 100%; 
+        }
+        .footer { 
+            
+           text-align: center; padding: 10px; background-color: #f8f9fa;
+            align-items: flex-end;
+            padding-bottom: 45px;
+            padding-top: 2px;
+
+        }
+        .container {
+           /* margin: 0px 300px 0px 400px;*/
+    padding: 20px;
+    background-color: #88d4a9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    /*padding: 100px 220px 140px 120px;*/
+        }
+
+        .container-home {
+            /* margin: 0px 300px 0px 400px;*/
+     padding: 20px;
+     
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     border-radius: 8px;
+     /*padding: 100px 220px 140px 120px;*/
+         }
+         .container-book{
+            display: block;
+            background-color: #73776c;
+            height: 20px;
+         }
+
+        .p-box {
+            margin-top: 20px;
+            border: 3px solid white;
+            float: left;
+            width: 22%;
+            margin-left: 30px;
+            padding: 5px;
+            background-color: gainsboro;
+            height: 32em;
+        }
+
+        .p-box img{
+            align-content: center;
+            padding-left: 55px;
+        }
+        
+        .p-box h4 {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        
+        .p-box p {
+            text-align: justify;
+        }
+        
+        .p-box a {
+            color: red;
+            text-decoration: none;
+        }
+
+        .p-box-book1{
+            border: 3px solid white;
+            float: center;
+            width: 100%;
+            margin: 0px 0px 4px 0px;
+            padding: 50px 2px 4px 60px;
+            background-color: gainsboro;
+            height: 82em;
+        }
+        }
+
+        .container-sign{
+            align-content: center;
+        }
+        form{
+            margin: 20px 200px 220px 200px;
+            
+        }
+        .footer-sign { 
+            
+            text-align: center; padding: 2px; background-color: #f8f9fa;
+             align-items: flex-end;
+             padding-bottom: 5px;
+         }
+
+         .textgroup{
+            background-color: rgb(228, 217, 217);
+            color: rgb(2, 20, 8);
+            margin 100px;
+            width: 100%;
+            float: left;
+            padding: 40px 20px 1px 40px;
+            font-size: larger;
+        }
+        textgroup h4{
+            padding-left: 3%;
+            color: white;
+            
+        }
