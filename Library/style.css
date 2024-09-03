@@ -1,5 +1,5 @@
 body {
-    background-image: url('images/loginpage1.jpg');
+    background-image: url('/Library/images/loginpage1.jpg');
     background-color: #f8f9fa;
     font-family: Arial, sans-serif;
     display: flex;
